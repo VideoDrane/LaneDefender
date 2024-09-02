@@ -124,12 +124,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Speed: 2
   Lane: 0
-  HealthPoints: 2
+  HealthPoints: 3
   EnemyType: 3
   RB2D: {fileID: 4384348831195490544}
   Hurt: {fileID: 8300000, guid: 67debf6361bf3a34a9cb4284826f0802, type: 3}
   ASource: {fileID: 2077539728712352971}
   DeathSound: {fileID: 1496052597330219916, guid: d435014537bd94048b890c809846f3ab, type: 3}
+  GM: {fileID: 0}
 --- !u!61 &6041206463425902985
 BoxCollider2D:
   m_ObjectHideFlags: 0
